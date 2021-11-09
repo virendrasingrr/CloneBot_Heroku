@@ -18,7 +18,7 @@
 - Copy public folders & files to team drives
 - [Host it to Railway]
 - [Host it to Qovery]
-- [Host it to heroku](https://github.com/MsGsuite/CloneBot_Heroku)
+- [Host it to heroku](https://github.com/virendrasingrr/CloneBot_Heroku)
 
 #### ❌ Drawbacks
 - Does not support files upload (only copy)
