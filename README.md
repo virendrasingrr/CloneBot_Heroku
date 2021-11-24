@@ -60,7 +60,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 > user_ids = 1159374942
 
 3. Click on Deploy app...
-4. When it's over, go to : https://dashboard.heroku.com/apps/YOURAPPNAME/resources (replace YOURAPPNAME by your appname 🙃)
+4. When it's over, go to : https://dashboard.heroku.com/apps/clownviru/resources (replace YOURAPPNAME by your appname 🙃)
 5. Then click on the ✏ and check $0.00 option and click on confirm.
 6. Now you can start your bot !
 <br/><br/>
